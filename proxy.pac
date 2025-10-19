@@ -10,7 +10,23 @@ function FindProxyForURL(url, host) {
     "oaistatic.com",
     "notion.so",
     "sagernet.org",
-    "2ip.ru"
+    "2ip.ru",
+
+    // YouTube
+    "youtube.com",
+    "youtu.be",
+    "ytimg.com",
+    "googlevideo.com",
+    "youtube-nocookie.com",
+    "youtubei.googleapis.com",
+    "yt3.ggpht.com",
+
+    // JetBrains
+    "jetbrains.com",
+    "plugins.jetbrains.com",
+    "download.jetbrains.com",
+    "cache-redirector.jetbrains.com",
+    "account.jetbrains.com"
   ];
 
   // Сопоставляем и точные хосты, и поддомены
