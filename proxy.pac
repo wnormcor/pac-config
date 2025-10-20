@@ -11,6 +11,7 @@ function FindProxyForURL(url, host) {
     "notion.so",
     "sagernet.org",
     "2ip.ru",
+    "speedtest.net",
 
     // YouTube
     "youtube.com",
