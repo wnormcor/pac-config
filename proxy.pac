@@ -7,6 +7,7 @@ function FindProxyForURL(url, host) {
     "openai.com",
     "api.openai.com",
     "auth.openai.com",
+    "oaiusercontent.com",
     "oaistatic.com",
     "notion.so",
     "sagernet.org",
