@@ -28,7 +28,14 @@ function FindProxyForURL(url, host) {
     "plugins.jetbrains.com",
     "download.jetbrains.com",
     "cache-redirector.jetbrains.com",
-    "account.jetbrains.com"
+    "account.jetbrains.com",
+
+    // copilot
+    // "github.com",
+    // "api.github.com",
+    "copilot-proxy.githubusercontent.com",
+    "copilot.githubusercontent.com",
+    "githubcopilot.com"
   ];
 
   // Сопоставляем и точные хосты, и поддомены
