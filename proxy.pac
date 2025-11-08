@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
     "sagernet.org",
     "2ip.ru",
     "speedtest.net",
+    "mattermost.com",
 
     // YouTube
     "youtube.com",
