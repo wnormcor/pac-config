@@ -16,6 +16,7 @@ function FindProxyForURL(url, host) {
     "speedtest.net",
     "mattermost.com",
     "claude.ai",
+    "claude.com",
 
     // YouTube
     "youtube.com",
