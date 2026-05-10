@@ -15,8 +15,13 @@ function FindProxyForURL(url, host) {
     "2ip.ru",
     "speedtest.net",
     "mattermost.com",
-    "claude.ai",
-    "claude.com",
+
+    // Claude / Anthropic                                                                                                                      
+    "anthropic.com",                                                                                                                           
+    "claude.ai",                                                                                                                               
+    "claude.com",                                                                                                                              
+    "claudeusercontent.com",                              
+    "downloads.claude.ai", 
 
     // YouTube
     "youtube.com",
