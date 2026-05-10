@@ -1,5 +1,6 @@
 function FindProxyForURL(url, host) {
-  var proxy = "PROXY 127.0.0.1:1080";
+  var proxy_old = "PROXY 127.0.0.1:1080";
+  var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080";
 
   // Домены, которые нужно гнать через прокси
   var domains = [
