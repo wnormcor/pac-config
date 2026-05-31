@@ -20,7 +20,8 @@ function FindProxyForURL(url, host) {
     "anthropic.com",                                                                                                                           
     "claude.ai",                                                                                                                               
     "claude.com",                                                                                                                              
-    "claudeusercontent.com",                              
+    "claudeusercontent.com",
+    "claudemcpcontent.com",
     "downloads.claude.ai", 
 
     // YouTube
