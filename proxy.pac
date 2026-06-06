@@ -11,6 +11,7 @@ function FindProxyForURL(url, host) {
     "oaiusercontent.com",
     "oaistatic.com",
     "notion.so",
+    "notion.com",
     "sagernet.org",
     "2ip.ru",
     "speedtest.net",
